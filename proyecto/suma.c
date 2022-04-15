@@ -6,6 +6,7 @@
 
 void datos(){
 
+system("clear");
 printf("----------------------------\n");
 printf("| 1.-SUMA          2.-RESTA  |\n");
 printf("|         3.-SALIR           |\n");
@@ -15,6 +16,10 @@ printf(" ----------------------------|\n");
 
 
 }
+
+
+
+
 
 
 
